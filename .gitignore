@@ -94,6 +94,9 @@ env/
 .ipynb_checkpoints/
 */.ipynb_checkpoints/
 
+# Large notebook files (>100MB - GitHub limit)
+notebooks/DDPG.ipynb
+
 # Notebook output files
 notebooks/*.mat
 notebooks/*.txt
