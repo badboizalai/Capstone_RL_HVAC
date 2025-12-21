@@ -98,6 +98,8 @@ env/
 notebooks/*.mat
 notebooks/*.txt
 
+# Large notebook files (>100MB - GitHub limit)
+notebooks/DDPG.ipynb
 # ==================== IDE & EDITORS ====================
 # VS Code
 .vscode/

@@ -889,7 +889,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Capstone Project - FA25**
 
-*Vietnam National University*
+*FPT University*
 
 </div>
 
